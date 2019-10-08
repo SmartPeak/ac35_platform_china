@@ -1,9 +1,5 @@
-::##########################################################################
-::# Shanghai Basewin Technology Co.,Ltd.
-::# All Rights Reserved 2017
-::##########################################################################
 @call envsetup.cmd
-@call bVersion.bat %1
+@call bVersion.cmd %1
 
 @if "%QR_BUILD_TYPE%"=="" (
 @set QR_BUILD_TYPE=Release
