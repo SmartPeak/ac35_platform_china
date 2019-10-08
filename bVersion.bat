@@ -3,7 +3,7 @@
 
 :: get version
 @if "%1"=="" (
-@set /p APP_VERSION="Please input ver£¨Èç£º%default_ver%£©£º "
+@set /p APP_VERSION="Please input ver (for£º%default_ver%): "
 ) else (
 @set APP_VERSION=%1
 )
