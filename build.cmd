@@ -1,3 +1,4 @@
+
 @call envsetup.cmd
 @call bVersion.cmd %1
 
@@ -40,3 +41,4 @@ cmake --build out -- -j4
 @echo.
 
 ::@pause
+

@@ -1,3 +1,4 @@
+
 @call envsetup.cmd
 
 @cmake --build out --target clean
@@ -6,3 +7,4 @@
 @rm -rf upd.tmp
 
 ::@pause
+

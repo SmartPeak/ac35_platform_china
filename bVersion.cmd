@@ -12,7 +12,7 @@
 @set APP_VERSION=%default_ver%
 )
 
-@echo Version£º%APP_VERSION%
+@echo Version: %APP_VERSION%
 
 :: set build date
 @set APP_BUILD_DATE=%date:~2,2%%DATE:~5,2%%DATE:~8,2%

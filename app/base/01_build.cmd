@@ -1,3 +1,4 @@
+
 @if "%1"=="" (
 python cmd.py -b
 ) else (

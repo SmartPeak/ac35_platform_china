@@ -1,8 +1,5 @@
-::##########################################################################
-::# Shanghai Basewin Technology Co.,Ltd.
-::# All Rights Reserved 2019
-::##########################################################################
-:: environment£º
+
+:: environment:
 :: - Cygwin64 (with CMake)
 :: - ARMCT5.01 (Or RVCT)
 
