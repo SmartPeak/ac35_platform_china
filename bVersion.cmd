@@ -1,3 +1,4 @@
+
 @echo off
 @set default_ver=V0.09.2003
 
@@ -13,7 +14,4 @@
 )
 
 @echo Version: %APP_VERSION%
-
-:: set build date
-@set APP_BUILD_DATE=%date:~2,2%%DATE:~5,2%%DATE:~8,2%
 

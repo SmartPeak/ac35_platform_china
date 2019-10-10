@@ -37,7 +37,6 @@ cmake --build out -- -j4
 @echo    Target: %QR_BUILD_TARGET%
 @echo  Customer: %QR_CUSTOMER_NAME%
 @echo   Version: %APP_VERSION%
-@echo      Date: %APP_BUILD_DATE%
 @echo.
 
 ::@pause
